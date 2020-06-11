@@ -1,3 +1,4 @@
+//oke
 #include <NewPing.h>
 #define TRIGGER_PIN 2
 #define ECHO_PIN    4
